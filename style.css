@@ -1,0 +1,83 @@
+body{
+    text-align: center;
+    background: linear-gradient( #E1BEE7 0%, #90CAF9 100%);
+    scroll-behavior: smooth;
+}
+img{
+    border-radius: 60%;
+}
+#Home{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 600px;
+    opacity: 83%;
+    z-index: 9;
+}
+p{
+    max-width: 500px;
+    margin: auto;
+    line-height: 25px;
+}
+#span1{
+  font-family: cursive;  
+    font-size: 35px;
+}
+h1{
+    font-size: 50px;
+}
+.line{
+    width: 500px;
+    height: 5px; 
+    background-color: black;
+    margin: 10px auto;
+}
+.MENU{
+    list-style: none;
+    font-family: fantasy;
+    position: fixed;
+    cursor: pointer;
+    background: linear-gradient( #E1BEE7 0%, #90CAF9 100%);
+    width: 100%;
+    z-index: 10;
+    top: 0px;
+    margin-top: 0px;
+}
+.links{
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: 'Potta One', cursive;
+    font-size: 20px;
+}
+.links:hover{
+    background-color: aqua;
+    font-size: 25px;
+    text-decoration: underline;
+}
+p{
+    font-family: 'Potta One', cursive;
+}
+.article{
+ font-size: 20px;
+font-family: 'Potta One', cursive;
+}
+.article:hover{
+color: blue;
+}
+a {
+    text-decoration: none;
+    color: #0099ff;
+    text-shadow:2px 2px #ffcc00; 
+}
+.Contacts_1 a{
+    color: red;
+    text-shadow: none;
+}
+#Contacts{
+    background-color: linear-gradient( #E1BEE7 0%, #90CAF9 100%);
+}
+.Contacts_1 h3{
+    display: inline;
+}
